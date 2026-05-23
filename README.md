@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sunday-in-a-cowboy-hat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sunday in a Cowboy Hat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sunday-in-a-cowboy-hat/) |
+| **Get License** | [Commercial Licensing for Sunday in a Cowboy Hat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sunday-in-a-cowboy-hat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f4877fc0a67cbab810495820acfbe0a7fd8284c741a6e94d8571bc858a8fd826` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

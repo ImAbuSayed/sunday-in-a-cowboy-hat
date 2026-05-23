@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sunday in a Cowboy Hat
+
+This log tracks the cryptographic history and versioning for the song **Sunday in a Cowboy Hat** (sunday-in-a-cowboy-hat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:35:10.665454 | `v1` | `f4877fc0a67cbab810495820acfbe0a7fd8284c741a6e94d8571bc858a8fd826` | `2e2644d494e042bd753bdb68e281c7c6434852d3d059aefeea06d0ce24094c53` | `2026-05-23_sunday-in-a-cowboy-hat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
