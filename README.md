@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sunday-in-a-cowboy-hat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sunday in a Cowboy Hat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sunday-in-a-cowboy-hat/) |
+| **Get License** | [Secure Licensing Rights for Sunday in a Cowboy Hat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sunday-in-a-cowboy-hat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got a feeling in the midnight air
+> You're looking at me like you wanna go there
+> Got the keys to the truck and some time to kill
+> Let's see if this spark is something real
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
